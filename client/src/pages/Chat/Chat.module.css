@@ -1,0 +1,28 @@
+.container{
+    width: 40%;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 0px 0px 0px 0px;
+    /* overflow-y: hidden; */
+    border: 1px solid #efefef;
+}
+
+.header {
+    height: 50px;
+    border-bottom: 1px solid #efefef;
+}
+
+.header img{
+    height: 40px;
+    width: 40px;
+}
+
+.conversations {
+    overflow-y: auto;
+    height: calc(100vh - 102px);
+}
+
+.footer {
+    height: 50px;
+    border-top: 1px solid #efefef;
+}
