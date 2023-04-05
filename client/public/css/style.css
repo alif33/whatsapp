@@ -32,7 +32,7 @@ body {
 .auth-header img {
   width: 70px;
   height: 70px;
-  margin: 76px 0 80px 0;
+  margin: 20px 0 40px 0;
 }
 .auth-body button {
   width: 100%;
@@ -51,7 +51,7 @@ body {
   border: 1px solid #707070;
   padding: 8px 0px;
   border-radius: 20px;
-  margin-bottom: 200px;
+  margin-bottom: 100px;
 }
 
 .search-box input {
