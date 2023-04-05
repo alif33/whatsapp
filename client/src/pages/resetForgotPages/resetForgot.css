@@ -1,0 +1,16 @@
+.forgot-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+.forgot-header h1 {
+  font-weight: 700;
+  font-size: 45px;
+}
+.forgot-header p {
+  margin-top: 15px;
+  font-weight: 400;
+  font-size: 16px;
+}
